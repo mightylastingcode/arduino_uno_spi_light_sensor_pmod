@@ -17,8 +17,8 @@
 ************************************************************************/
 
 
-#define CS 33 // Assignment of the CS pin
-//#define CS 10 // Assignment of the CS pin
+
+#define CS 10 // Assignment of the CS pin
 
 /*
  * CS D10
